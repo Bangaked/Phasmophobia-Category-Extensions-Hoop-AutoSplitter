@@ -22,4 +22,4 @@ This may not work for everyone simply because I can't test if everything works f
 
 ## Extra Info
 
-At least for now, this will be kinda be like a Beta to make sure everything works. Once I have everything working I can make this work for more than just one version. You can always request edits to the code.
+At least for now, this will be kinda be like a Beta to make sure everything works. Once I have everything working I can make this work for more than just one version. You can always request edits to the code of **[hoop.asl](https://github.com/Bangaked/Phasmophobia-Category-Extensions-Hoop-AutoSplitter/blob/main/hoop.asl)**.
