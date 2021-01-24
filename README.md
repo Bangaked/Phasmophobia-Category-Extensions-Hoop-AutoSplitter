@@ -14,7 +14,7 @@ Download the **[hoop.asl](https://github.com/Bangaked/Phasmophobia-Category-Exte
 
 ### 2) The Harder way
 
-This is done the same as the easier way, but instead of downloading the file you just copy the code from **[hoop.asl](https://github.com/Bangaked/Phasmophobia-Category-Extensions-Hoop-AutoSplitter/blob/main/hoop.asl)**, create a text doc, paste the code in, and rename it to `(name).ASL`. 
+This is done the same as the easier way, but instead of downloading the file you just copy the code from **[hoop.asl](https://github.com/Bangaked/Phasmophobia-Category-Extensions-Hoop-AutoSplitter/blob/main/hoop.asl)**, create a text doc, paste the code in, and rename it to `"FileName".asl`. 
 > Make sure you have file name extensions on.
 
 ## Disclaimer
